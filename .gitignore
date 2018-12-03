@@ -1,0 +1,17 @@
+# =========================
+# User-specific stuff:
+# =========================
+**/.idea/**/encodings.xml
+**/.idea/**/misc.xml
+**/.idea/**/workspace.xml
+**/.idea/**/modules.xml
+**/.idea/**/planar-data-classification.iml
+**/__pycache__/
+**/.idea/**/vcs.xml
+**/.ipynb_checkpoints/
+
+
+# =========================
+# Virtual Environment
+# =========================
+/venv/
